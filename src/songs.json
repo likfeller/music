@@ -1,0 +1,253 @@
+[
+    {
+        "id": 1,
+        "name": "Nothing Else Metters",
+        "artist": "Metallica"
+    },
+    {
+        "id": 2,
+        "name": "Blinding Lights",
+        "artist": "The Weeknd"
+    },
+    {
+        "id": 3,
+        "name": "The Twist",
+        "artist": "Chubby Checker"
+    },
+    {
+        "id": 4,
+        "name": "Smooth",
+        "artist": "Santana "
+    },
+    {
+        "id": 5,
+        "name": "Mack The Knife",
+        "artist": "Bobby Darin"
+    },
+    {
+        "id": 6,
+        "name": "Uptown Funk!",
+        "artist": "Mark Ronson ft Bruno Mars"
+    },
+    {
+        "id": 7,
+        "name": "How Do I Live",
+        "artist": "LeAnn Rimes"
+    },
+    {
+        "id": 8,
+        "name": "I Gotta Feeling",
+        "artist": "The Black Eyed Peas"
+    },
+    {
+        "id": 9,
+        "name": "Shape Of You",
+        "artist": "Ed Sheeran"
+    },
+    {
+        "id": 10,
+        "name": "Physical",
+        "artist": "Olivia Newton-John"
+    },
+    {
+        "id": 11,
+        "name": "Hey Jude",
+        "artist": "The Beatles"
+    },
+    {
+        "id": 12,
+        "name": "Bette Davis Eyes",
+        "artist": "Kim Carnes"
+    },
+    {
+        "id": 13,
+        "name": "Circles",
+        "artist": "Post Malone"
+    },
+    {
+        "id": 14,
+        "name": "Bette Davis Eyes",
+        "artist": "Diana Ross & Lionel Richie"
+    },
+    {
+        "id": 15,
+        "name": "Tonight's The Night",
+        "artist": "Rob Stewart"
+    },
+    {
+        "id": 16,
+        "name": "Foolish Games",
+        "artist": "Jewel"
+    },
+    {
+        "id": 17,
+        "name": "I Do It For You",
+        "artist": " Bryan Adams"
+   },
+    {
+        "id": 18,
+        "name": "Le Freak",
+        "artist": "Chic"
+    },
+    {
+        "id": 19,
+        "name": "Eye Of The Tiger",
+        "artist": "Survivor"
+    },
+    {
+        "id": 20,
+        "name": "Eye Of The Tiger",
+        "artist": "Rihana"
+    },
+    {
+        "id": 21,
+        "name": "Levitating",
+        "artist": "Dua Lipa"
+    },
+    {
+        "id": 22,
+        "name": "Homesick",
+        "artist": "Dua Lipa"
+    },
+    {
+        "id": 23,
+        "name": "Too Close",
+        "artist": "Next"
+    },
+    {
+        "id": 24,
+        "name": "Rolling In The Deep",
+        "artist": "Adele"
+    },
+    {
+        "id": 25,
+        "name": "One Sweet Day",
+        "artist": "Mariah Carey & Boyz II Men"
+    },
+    {
+        "id": 26,
+        "name": "Silly Love Songs",
+        "artist": "Wings"
+    },
+    {
+        "id": 27,
+        "name": "Let's Get It On",
+        "artist": "Marvin Gaye"
+    },
+    {
+        "id": 28,
+        "name": "Night Fever",
+        "artist": "Bee Gees"
+    },
+    {
+        "id": 29,
+        "name": "Say Say Say",
+        "artist": "Michael Jackson"
+    },
+    {
+        "id": 30,
+        "name": "How You Remind Me",
+        "artist": "Nickelback"
+    },
+    {
+        "id": 31,
+        "name": "Call Me Maybe",
+        "artist": "Carly Rae Jepsen"
+    },
+    {
+        "id": 32,
+        "name": "No One",
+        "artist": "Allica Keys"
+    },
+    {
+        "id": 33,
+        "name": "Perfect",
+        "artist": "Ed Sheeran"
+    },
+    {
+        "id": 34,
+        "name": "Call Me",
+        "artist": "Blondie"
+    },
+    {
+        "id": 35,
+        "name": "Let Me Love You",
+        "artist": "Marie"
+    },
+    {
+        "id": 36,
+        "name": "Tik Tok",
+        "artist": "Kesha"
+    },
+    {
+        "id": 37,
+        "name": "Lady",
+        "artist": "Kenny Rogers"
+    },
+    {
+        "id": 38,
+        "name": "Gold Digger",
+        "artist": "Kanye West"
+    },
+    {
+        "id": 39,
+        "name": "The Sign",
+        "artist": "Ace of Base"
+    },
+    {
+        "id": 40,
+        "name": "Starting Over",
+        "artist": "John Lenon"
+    },
+    {
+        "id": 41,
+        "name": "Royals",
+        "artist": "Lorde"
+    },
+    {
+        "id": 42,
+        "name": "The Boy Is Mine",
+        "artist": "Brandy & Monica"
+    },
+    {
+        "id": 43,
+        "name": "God's Plan",
+        "artist": "Drake"
+    },
+    {
+        "id": 44,
+        "name": "Rush Rush",
+        "artist": "Paula Abdul"
+    },
+    {
+        "id": 45,
+        "name": "Happy",
+        "artist": "Pharrell Williams"
+    },
+    {
+        "id": 46,
+        "name": "Upside Down",
+        "artist": "Diana Ross"
+    },
+    {
+        "id": 47,
+        "name": "Sugar",
+        "artist": "The Archies"
+    },
+    {
+        "id": 48,
+        "name": "Billie Jean",
+        "artist": "Michael Jackson"
+    },
+    {
+        "id": 49,
+        "name": "Hot Stuff",
+        "artist": "Donna Summer"
+    },
+    {
+        "id": 50,
+        "name": "Gangsta's Paradise",
+        "artist": "Coolio "
+    }
+    
+]
